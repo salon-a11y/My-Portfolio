@@ -1,3 +1,7 @@
+import shopsy from '../images/shopsy.png'
+import agency from '../images/agency.png'
+import shoppingcart from '../images/shoppingcart.png'
+
 export const Bio = {
   name: "Saloni Mourya",
   roles: [
@@ -277,8 +281,8 @@ export const projects = [
     
     description:"Full Stack E-Commerce Shopping – A MERN stack-based e-commerce application with responsive UI, product listing, authentication, cart management, and backend API integration for a complete shopping experience."
       ,
-      image:
-      "",
+      image:shopsy
+      ,
       tags: [
         "html",
         "css",
@@ -315,8 +319,7 @@ export const projects = [
    
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image:agency,
     tags: [
       "Html",
       "CSS",
@@ -335,8 +338,7 @@ export const projects = [
 
     description:
       "A frontend-based e-commerce web application built with React.js that provides a smooth online shopping experience. The application includes product listing, category-wise browsing, cart management, and responsive user interface with reusable components for better user interaction.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    image:shoppingcart,
     tags: ["html","CSS","JavaScript","Context Api","React-Router-Dom", "React"],
     category: "Frontend ",
     github: "https://github.com/salon-a11y/Shoping-Cart-E-commerce-",

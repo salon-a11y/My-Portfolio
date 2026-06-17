@@ -1,4 +1,7 @@
 {
+  "env": {
+    "CI": "false"
+  },
   "buildEnv": {
     "CI": "false"
   }
